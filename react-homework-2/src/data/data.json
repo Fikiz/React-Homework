@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Paris",
+		"description": "The capital ofFrance",
+		"image": "/images/1.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 2,
+		"name": "Barcelona",
+		"description": "The capital of Catalonia",
+		"image": "/images/2.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 3,
+		"name": "Madrid",
+		"description": "The capital of Spain",
+		"image": "/images/3.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 4,
+		"name": "Skopje",
+		"description": "The capital ofMacedonia",
+		"image": "/images/4.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 5,
+		"name": "Belgrade",
+		"description": "The capital of Serbia",
+		"image": "/images/5.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 6,
+		"name": "Zagreb",
+		"description": "The capital ofCroatia",
+		"image": "/images/6.jpg",
+		"region":"Europa"
+		
+	},
+	{
+		"id": 7,
+		"name": "Tokio",
+		"description": "The capital of Japonia",
+		"image": "/images/7.jpg",
+		"region":"Asia"
+	},
+	{
+		"id": 8,
+		"name": "Moskva",
+		"description": "The capital of Russia",
+		"image": "/images/8.jpg",
+		"region":"Asia"
+	},
+	{
+		"id": 9,
+		"name": "Lisabon",
+		"description": "The capital of Portugal",
+		"image": "/images/9.jpg",
+		"region":"Europa"
+	},
+	{
+		"id": 10,
+		"name": "Otava",
+		"description": "The capital of Canada",
+		"image": "/images/10.jpg",
+		"region":"America"
+		
+    }
+]
