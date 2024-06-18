@@ -1,0 +1,93 @@
+[
+	{
+		"id": 1,
+		"name": "France",
+		"description": "Capital: Paris",
+		"image": "/images/france.png",
+		"region":"Europa"
+	},
+	{
+		"id": 2,
+		"name": "Portugal",
+		"description": "Capital: Lisabon",
+		"image": "/images/portugal.png",
+		"region":"Europa"
+	},
+	{
+		"id": 3,
+		"name": "Macedonia",
+		"description": "Capital: Skopje",
+		"image": "/images/macedonia.png",
+		"region":"Europa"
+	},
+	{
+		"id": 4,
+		"name": "Croatia",
+		"description": "Capital: Zagreb",
+		"image": "/images/croacia.png",
+		"region":"Europa"
+	},
+	{
+		"id": 5,
+		"name": "Serbia",
+		"description": "Capital: Serbia",
+		"image": "/images/serbia.png",
+		"region":"Europa"
+	},
+	{
+		"id": 6,
+		"name": "America",
+		"description": "Capital: Washington",
+		"image": "/images/america.jpg",
+		"region":"America"
+		
+	},
+	{
+		"id": 7,
+		"name": "Japan",
+		"description": "Capital: Tokio",
+		"image": "/images/japonia.png",
+		"region":"Asia"
+	},
+	{
+		"id": 8,
+		"name": "Russia",
+		"description": "Capital: Moskva",
+		"image": "/images/russia.png",
+		"region":"Asia"
+	},
+	{
+		"id": 9,
+		"name": "Nigeria",
+		"description": "Capital: GG",
+		"image": "/images/nigeria.png",
+		"region":"Africa"
+	},
+	{
+		"id": 10,
+		"name": "Canada",
+		"description": "Capital: Otava",
+		"image": "/images/canada.png",
+		"region":"America"
+		
+    },
+	{
+		"id": 11,
+		"name": "Bosnia And Hercegovina",
+		"description": "Capital: Saraevo",
+		"image": "/images/bosnia.jpg",
+		"region":"Europa"
+		
+    },
+	{
+		"id": 12,
+		"name": "Australia",
+		"description": "Capital: Melburne",
+		"image": "/images/australia.png",
+		"region":"Okeania"
+		
+    }
+	
+	
+
+]
